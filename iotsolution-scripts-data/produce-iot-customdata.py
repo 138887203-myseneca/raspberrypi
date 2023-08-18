@@ -173,7 +173,7 @@ def producetokafka(value, tmlid, identifier,producerid,maintopic,substream):
 
       
 
-inputfile=basedir + '/IotSolution/IoTData.txt'
+inputfile=basedir + 'IotSolution/IoTData.txt'
 
 maintopic='iot-mainstream'
 
